@@ -20,6 +20,7 @@ Enjoy!
 
 | Date | Title | URL | Files | Cover |
 |---|---|---| --- | --- |
+| February 22, 2024 | Ultimate guide to optimizing Stable Diffusion XL | [Link](https://www.felixsanz.dev/articles/ultimate-guide-to-optimizing-stable-diffusion-xl) | [Link](https://github.com/felixsanz/felixsanz_dev/tree/main/articles/ultimate-guide-to-optimizing-stable-diffusion-xl) | ![Ultimate guide to optimizing Stable Diffusion XL](https://www.felixsanz.dev/images/posts/en/ultimate-guide-to-optimizing-stable-diffusion-xl/cover.jpg) |
 | January 20, 2024 | PixArt-α with less than 8GB VRAM | [Link](https://www.felixsanz.dev/articles/pixart-a-with-less-than-8gb-vram) | [Link](https://github.com/felixsanz/felixsanz_dev/tree/main/articles/pixart-a-with-less-than-8gb-vram) | ![PixArt-α with less than 8GB VRAM](https://www.felixsanz.dev/images/posts/en/pixart-a-with-less-than-8gb-vram/cover.jpg) |
 | January 15, 2024 | How to implement Stable Diffusion | [Link](https://www.felixsanz.dev/articles/how-to-implement-stable-diffusion) | [Link](https://github.com/felixsanz/felixsanz_dev/tree/main/articles/how-to-implement-stable-diffusion) | ![How to implement Stable Diffusion](https://www.felixsanz.dev/images/posts/en/how-to-implement-stable-diffusion/cover.jpg) |
 | December 30, 2023 | NixOS made me go back to Windows | [Link](https://www.felixsanz.dev/articles/nixos-made-me-go-back-to-windows) | | ![NixOS made me go back to Windows](https://www.felixsanz.dev/images/posts/en/nixos-made-me-go-back-to-windows/cover.jpg) |
