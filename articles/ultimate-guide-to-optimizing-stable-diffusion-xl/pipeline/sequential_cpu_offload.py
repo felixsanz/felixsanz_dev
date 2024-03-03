@@ -29,7 +29,7 @@ pipe = AutoPipelineForText2Image.from_pretrained(
   use_safetensors=True,
   torch_dtype=torch.float16,
   variant='fp16',
-).to('cuda')
+)
 
 pipe.enable_sequential_cpu_offload()
 
